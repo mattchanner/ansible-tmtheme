@@ -1,6 +1,6 @@
 A dark scheme for [Sublime Text 2](http://www.sublimetext.com/2), [Sublime Text 3](http://www.sublimetext.com/3) or [TextMate](http://macromates.com/).
 
-![Screen shot](https://github.com/mattchanner/ansible-tmtheme/master/Ansible.png)
+![Screen shot](https://raw.github.com/mattchanner/ansible-tmtheme/master/Ansible.png)
 
 ##Install in Sublime Text
 
