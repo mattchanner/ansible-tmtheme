@@ -4,7 +4,7 @@ A dark scheme for [Sublime Text 2](http://www.sublimetext.com/2), [Sublime Text 
 
 ##Install in Sublime Text
 
-Option 1: Install "Theme - Lodestone Color Scheme" from [Package Control](http://wbond.net/sublime_packages/package_control).
+Option 1: Install "Lodestone Color Scheme" from [Package Control](http://wbond.net/sublime_packages/package_control).
 
 Option 2: Copy *lodestone.tmTheme* into a new folder inside the *Packages* folder of Sublime Text.
 
