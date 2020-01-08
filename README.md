@@ -2,17 +2,17 @@ A dark scheme for [Sublime Text 2](http://www.sublimetext.com/2), [Sublime Text 
 
 ![Screen shot](https://raw.github.com/mattchanner/lodestone-theme/master/lodestone.png)
 
-##Install in Sublime Text
+## Install in Sublime Text
 
 Option 1: Install "Lodestone Color Scheme" from [Package Control](http://wbond.net/sublime_packages/package_control).
 
 Option 2: Copy *lodestone.tmTheme* into a new folder inside the *Packages* folder of Sublime Text.
 
-##Feedback
+## Feedback
 If you find any bugs or have suggestions for improvement, feel free to create an issue or send me a pull request!
 
-##License
+## License
 This color scheme and all included files are public domain. Use at own risk.
 
-##Version
+## Version
 1.0.0 - Initial version
